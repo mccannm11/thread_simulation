@@ -1,0 +1,8 @@
+# compiling
+`gcc -o main -Wall -pthread main.c`
+
+# running
+./main
+
+#exiting
+Runs untill user hits <ctrl-c>
